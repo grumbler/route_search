@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Search directions",
+  "description": "This extension will help you to find directions to work for a specified address",
+  "version": "1.0",
+
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ],
+  "background": {
+    "scripts": [
+      "sample.js"
+    ]
+  }
+}
